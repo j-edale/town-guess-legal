@@ -91,7 +91,7 @@ Google LLC complies with the UK Extension to the EU-US Data Privacy Framework an
 
 ## 9. Children's Privacy
 
-TownGuess UK does not knowingly collect any information from children under the age of 13, and indeed does not collect personal information from any user of any age. The app is suitable for use by all ages.
+TownGuess UK is suitable for all ages. The technical data collected automatically by Firebase Crashlytics and Google Analytics for Firebase (described in sections 6 and 7) is collected from all users regardless of age. We do not collect any additional personal information from children under the age of 13, or indeed from any user of any age.
 
 ## 10. Changes to This Policy
 
