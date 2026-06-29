@@ -46,6 +46,8 @@ All content in the App — including but not limited to the game design, graphic
 
 Map tiles are provided by OpenFreeMap under the ODbL licence. MapLibre Native is used under the BSD-2-Clause licence.
 
+Game icon adapted from work by Simpleicons, licensed under CC BY 3.0.
+
 ## 6. Third-Party Services
 
 The App uses the following third-party services. Your use of the App is also subject to the applicable terms of those services:
