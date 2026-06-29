@@ -82,4 +82,4 @@ Email: [travelnerdgames@icloud.com](mailto:travelnerdgames@icloud.com)
 
 ---
 
-© 2026 John Edwards. All rights reserved.
+© 2026 Travel Nerd Games. All rights reserved.
