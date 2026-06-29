@@ -5,7 +5,7 @@ title: Terms of Use – TownGuess UK
 
 # TownGuess UK — Terms of Use
 
-**Effective date: 25 June 2026**
+**Effective date: 29 June 2026**
 
 ## 1. Acceptance of Terms
 
@@ -52,8 +52,9 @@ Game icon adapted from work by Simpleicons, licensed under CC BY 3.0.
 
 The App uses the following third-party services. Your use of the App is also subject to the applicable terms of those services:
 
-- Apple App Store — [https://www.apple.com/legal/internet-services/itunes/](https://www.apple.com/legal/internet-services/itunes/)
-- OpenFreeMap (map tile provider) — [https://openfreemap.org](https://openfreemap.org)
+- Apple App Store — <https://www.apple.com/legal/internet-services/itunes/>
+- OpenFreeMap (map tile provider) — <https://openfreemap.org>
+- Google Firebase / Crashlytics (crash reporting and analytics) — <https://firebase.google.com/terms>
 
 ## 7. Disclaimer of Warranties
 
@@ -96,7 +97,7 @@ You acknowledge and agree that:
 If you have any questions about these Terms, please contact us at:
 
 Travel Nerd Games  
-Email: [travelnerdgames@icloud.com](mailto:travelnerdgames@icloud.com)
+Email: <travelnerdgames@icloud.com>
 
 ---
 
